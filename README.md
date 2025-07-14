@@ -29,7 +29,7 @@ Betcha is a decentralized prediction game where users bet \$GUI tokens on meme t
 
 ```bash
 # Clone the repo
-git clone https://gitlab.com/your-org/betcha.git
+git clone https://github.com/Sakibimam/Betcha).git
 cd betcha
 
 # Install dependencies
