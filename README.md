@@ -25,48 +25,6 @@ Betcha is a decentralized prediction game where users bet \$GUI tokens on meme t
 
 ---
 
-## 🚀 Getting Started
-
-```bash
-# Clone the repo
-git clone https://github.com/Sakibimam/Betcha).git
-cd betcha
-
-# Install dependencies
-yarn install
-
-# Create your env file
-cp .env.example .env.local
-
-# Start dev server
-yarn dev
-```
-
-Open your browser at `http://localhost:3000`
-
----
-
-## 🧪 Smart Contract Functions
-
-```move
-public fun create_battle(...)
-public fun place_bet(template_id: u64, amount: u64)
-public fun end_battle(...)
-public fun distribute_rewards(...)
-```
-
----
-
-## 📄 Environment Variables (`.env.local`)
-
-```env
-NEXT_PUBLIC_FIREBASE_API_KEY=xxx
-NEXT_PUBLIC_WALLET_NETWORK=devnet
-NEXT_PUBLIC_CONTRACT_ADDRESS=xxx
-```
-
----
-
 ## 🧭 Project Vision
 
 Betcha brings memes and DeFi together by letting users bet on what will go viral. We're making \$GUI a part of online culture through community-driven prediction games that are fun, competitive, and reward early trendspotters.
